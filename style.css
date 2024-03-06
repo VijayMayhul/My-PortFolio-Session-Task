@@ -1,0 +1,35 @@
+.navbar-nav a{
+    color: azure !important;
+}
+.icon{
+    font-size: 40px;
+}
+.card{
+    -webkit-box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 4px rgba(0,0,0,0.75);
+}
+.card:hover{
+    -webkit-box-shadow: 0px 0px 5px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 11px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 11px rgba(0,0,0,0.75);
+background-color: yellow;
+}
+.profile-img{
+    width: 150px;
+    height: fit-content;
+    border-radius: 20%;
+}
+.img-div{
+    width: 200px !important;
+    border-width: 6px;
+    border-style: double;
+    border-color: black;
+    border-radius: 20%;
+}
+.img-div:hover{
+    border-color: blue;
+}
+.skill-icon{
+    font-size: 100px;
+}
